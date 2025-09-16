@@ -1,5 +1,7 @@
 # Visual Studio cache/options directory
 .vs/
+bin/
+obj/
 
 # User-specific files
 *.user
